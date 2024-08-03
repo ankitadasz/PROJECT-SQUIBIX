@@ -1,0 +1,102 @@
+*
+{
+    margin : 0px;
+    padding : 0px;
+}
+.grid
+{
+    margin : 50px 10vw;
+    text-align: center;
+    display : grid;
+    grid-template-rows: auto auto;
+    grid-template-columns: auto auto;
+    grid-auto-flow: row;
+    border : 2px solid #8b704b;
+    width : 78vw;
+}
+.item1
+{
+    width : 33vw;
+    padding-top: 100px;
+    grid-area: 1/1/1/1;
+    background-color: #cdc3b6;
+}
+.item2
+{
+    width : 45vw;
+    padding : 5vw;
+    grid-area : 1/2/1/2;
+    text-align: left;
+}
+.logininput
+{
+    font-size: 13px;
+    font-weight: 500;
+}
+.logininput1
+{
+    border : none;
+    padding : 7px;
+    background-color: #d9d9d9;
+    color : black;
+    font-size: 10px;
+    width : 75%;
+}
+.login
+{
+    margin-left : 10vw;
+    padding : 7px 40px;
+    text-align: center;
+    background-color: #cdc3b6;
+    border-radius : 50px;
+    cursor : pointer;
+    border : none;
+}
+.login:hover
+{
+    border : 1px solid black;
+}
+.align
+{
+    text-align: center;
+}
+.input2
+{
+    font-size : 8px;
+    margin-left : 8.5vw;
+}
+.input3
+{
+    font-size : 7px;
+    color : grey;
+    text-decoration: none;
+}
+.input4
+{
+    /* position: absolute; */
+    margin-right : 10vw;
+    float : right;
+    font-size : 7px;
+    color : grey;
+    text-decoration: none;  
+}
+.eye
+{
+    background-color: white;
+    text-align: center;
+    border : none;
+    z-index : 1000;
+    right : 16vw;
+    padding : 5px;
+    /* top : 81vh; */
+}
+.input5
+{
+    color : red;
+    font-weight: bold;
+}
+.input6
+{
+    font-size : 10px;
+    text-decoration: none;
+}

@@ -1,0 +1,86 @@
+*
+{
+    margin : 0px;
+    padding : 0px;
+}
+.grid-box
+{
+    display : grid;
+    background-color: #cdc3b6;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto;
+    gap : 0px 0px;
+}
+.gridbox-item1
+{
+    grid-area : 1/1/1/1;
+}
+.homepage
+{
+    margin-top : 5vh;
+    margin-left : 5vw;
+}
+.gridbox-item2
+{
+    grid-area: 1/2/1/2;
+    text-align: right;
+    margin-top : 2vh;
+    margin-right : 7vw;
+}
+.profile
+{
+    height : 30px;
+    width : 30px;
+    border : 1px solid black;
+    border-radius: 50%;
+}
+.heading1
+{
+    padding-top: 12vh;
+    color : rgb(4, 54, 4);
+    text-align: center;
+    font-size : 40px;
+    padding-right: 10px;
+}
+.heading2
+{
+    color : rgb(4, 54, 4);
+    text-align: center;
+    font-size : 40px;
+}
+.gridbox-item3
+{
+    grid-area : 2/1/2/1;
+    margin-left : 6vw;
+}
+.gridbox-item4
+{
+    grid-area : 2/2/2/2;
+    margin-right : 6vw;
+}
+.image1
+{
+    float : right;
+    height : 70vh;
+}
+.div
+{
+    margin-left: 5vw;
+}
+.table
+{
+    width : 90vw;
+    margin : 5vh 5vw 5vh 0vw;
+    border : 2px solid grey;
+}
+.tr
+{
+    height : 20vh;
+}
+.td
+{
+    padding : 10px;
+    height : 20vh;
+    border : 1px solid grey;
+    text-align: center;
+}

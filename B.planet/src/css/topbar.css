@@ -1,0 +1,34 @@
+*
+{
+    margin : 0px;
+    padding : 0px;
+}
+.topbar
+{
+    display : flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 20px;
+    text-align: center;
+}
+.sitename
+{
+    margin-left : 10vw;
+    text-align: center;
+}
+.contact
+{
+    margin-right : 1vw;
+    font-size : 15px;
+    text-decoration: none;
+    color : black;
+    border : 1px solid black;
+    padding : 5px 10px;
+    border-radius: 50px;
+    font-weight: 300;
+    vertical-align: text-bottom;
+}
+.contact:hover
+{
+    background-color: #cdc3b6;
+}

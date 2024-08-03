@@ -1,0 +1,35 @@
+[
+    {
+        "profilePic" : "/static/media/profile.70e62af3e2edac7d4149.png" ,
+        "name" : "Rahul Kumar" ,
+        "email" : "rahulkumar@gmail.com",
+        "password" : "rahulkumar",
+        "role" : "Admin User",
+        "number" : "875496123",
+        "address" : "rtebfj",
+        "state" : "Odisha",
+        "zipcode" : "879412"
+    },
+    {
+        "profilePic" : "/static/media/profile.70e62af3e2edac7d4149.png" ,
+        "name" : "Bunny" ,
+        "email" : "bunbunlove05@gmail.com",
+        "password" : "bunbun",
+        "role" : "Normal User",
+        "number" : "875496123",
+        "address" : "rtebfj",
+        "state" : "Odisha",
+        "zipcode" : "879412"
+    },
+    {
+        "profilePic" : "/static/media/profile.70e62af3e2edac7d4149.png" ,
+        "name" : "Soumya Mohanty" ,
+        "email" : "soumyam076@gmail.com",
+        "password" : "soumyam076",
+        "role" : "Normal User",
+        "number" : "875496123",
+        "address" : "rtebfj",
+        "state" : "Odisha",
+        "zipcode" : "879412"
+    }
+]

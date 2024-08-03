@@ -1,0 +1,126 @@
+   header-container {
+    position: relative;
+    display: flex;
+    justify-content: center; 
+    align-items:flex-start; 
+    padding: 10px 20px;
+    background-color:#A8A6A6;
+   }
+  
+  .logo-container {
+    position: relative;
+    display:inline-flex;
+    justify-content:flex-start;
+    align-items: center;
+    border: 2px solid gray; 
+    width:99.4%;
+    padding: 10px; 
+    box-sizing:border-box; 
+    background-color:#c9c0b1;
+    margin-inline-start:70px;
+    margin-inline-end: 50px;
+    height: 661px;
+    margin-left: 14.9px;
+  
+    
+  
+    
+  
+  }
+  
+  .logo {
+    font-size:40px;
+    font-weight: bold;
+    height: 500px;
+    padding-left:50px;
+    color: #000;
+    
+  }
+  
+  .navv {
+    display: flex;
+    align-items: center;
+    margin-left:auto; 
+    top: 10px;
+    position: absolute;
+    right: 10px;
+    margin-right:50px;
+    padding-top: 15px;
+  }
+  
+  .navv a {
+    text-decoration: none;
+    margin-left: 20px;
+    color: #000;
+  }
+  
+  .contact-us {
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 5px;
+  }
+  .lo-gin {
+        width: 40px;
+        height: 40px; 
+        border-radius: 50%; 
+        border: 2px solid black;
+        display: flex; 
+        justify-content: center; 
+        align-items: center; 
+        color: white; 
+        font-size: 12px; 
+        text-align: center;
+      
+      
+  }
+  .header-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width:1495px;
+    
+  }
+  
+  .home-page-container {
+    width: 100%;
+    background-color:#A8A6A6;
+    text-align: left;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .home-page-title {
+    font-size: 36px;
+    font-weight: bold;
+    padding-left: 25px;
+    color: #000;
+  }
+  .hero-container {
+  position: relative;
+  display: flex;
+  flex-direction:row;
+  align-items: center;
+  }
+
+.hero-image {
+  width:50%;
+  height: auto;
+
+}
+.hero-image1 {
+  margin-bottom: -360px;
+}
+.hero-image2 {
+  margin-bottom: -149px;
+  margin-right: -20px;
+}
+
+.plant-quote {
+  font-size: 40px;
+  padding-top: 20px;
+  color:rgb(28, 58, 28);
+  margin-left: -150px;
+}
+.int {
+  margin-bottom: 4px;
+}
